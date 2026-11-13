@@ -1,0 +1,12 @@
+{
+  "name": "go-filesys",
+  "label": "Go Filesys",
+  "description": "File system package for Go",
+  "language": "go",
+  "status": "active",
+  "identity": "42e5a3cd38e3279dae8c59c3a993ea4bd2732328",
+  "dependencies": [],
+  "documents": {
+    "rules": []
+  }
+}
